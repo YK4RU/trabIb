@@ -1,0 +1,10 @@
+n1 = int(input('digite um número: '))
+n2 = int(input('digite outro número: '))
+sub = n1 - n2
+soma = n1 + n2
+multi = n1 * n2
+div = n1/n2
+print(f'{n1} + {n2} = {soma}')
+print(f'{n1} - {n2} = {sub}')
+print(f'{n1} * {n2} = {multi}')
+print(f'{n1} / {n2} = {div}')
